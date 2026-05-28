@@ -58,6 +58,7 @@ plt.legend()
 plt.show()
 ```
 <img width="890" height="668" alt="328087646-16e87bfa-27fe-434b-a574-d11ee68cff28" src="https://github.com/user-attachments/assets/fbe9e728-4289-4e84-8889-377a8c758070" />
+
 AREA CHART
 ```
 x = [1, 2, 3, 4, 5]
